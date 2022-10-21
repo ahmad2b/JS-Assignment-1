@@ -1,0 +1,1 @@
+const personName = "  Jinnah   "
