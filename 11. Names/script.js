@@ -1,3 +1,7 @@
 const friendArray = ["Asad", "Osama", "Abdullah", "Abdul Rehman"];
 
-console.log(friendArray[0], friendArray[1], friendArray[2], friendArray[3]);
+//console.log(friendArray[0], friendArray[1], friendArray[2], friendArray[3]);
+
+friendArray.forEach(element => {
+    console.log(element);
+});
